@@ -28,7 +28,7 @@ Detecting deepfakes in videos is more complex as it requires evaluating temporal
 
 ### 📁 Codebase Details:
 The complete project codebase exceeds **1 GB**, surpassing GitHub's 100 MB limit. To ensure accessibility, the code is hosted on **Google Drive**.  
-🔗 [Google Drive Link - Coming Soon](https://drive.google.com/drive/folders/1ui4Io79T_nS9aHBczdaZK6NsslRDILUC)
+🔗 [Google Drive Link](https://drive.google.com/drive/folders/1ui4Io79T_nS9aHBczdaZK6NsslRDILUC)
 
 ### Demonstration:
 To see the project in action, check out my **LinkedIn video demonstration** where I showcase its capabilities and discuss its implementation:  
