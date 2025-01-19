@@ -1,5 +1,5 @@
 # 🚀 Deepfake Face Detection Using LSTM 🌟  
-[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Post-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/vignesh-thipparthi_deepfake-face-detection-using-machine-learning-activity-7204727601888698368-uCMH?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn Post](https://img.shields.io/badge/LinkedIn-Post-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/vignesh-thipparthi_deepfakedetection-machinelearning-facemanipulation-activity-7194584457893359618-mXgX?utm_source=share&utm_medium=member_desktop)
 
 In an era where artificial intelligence has the power to create hyper-realistic deepfakes, safeguarding digital authenticity has never been more critical. This project is my **contribution to combating digital deception**, leveraging state-of-the-art machine learning techniques to detect manipulated images and videos with exceptional precision.
 
@@ -32,7 +32,7 @@ The complete project codebase exceeds **1 GB**, surpassing GitHub's 100 MB limit
 
 ### Demonstration:
 To see the project in action, check out my **LinkedIn video demonstration** where I showcase its capabilities and discuss its implementation:  
-🔗 [Watch the video on LinkedIn](https://www.linkedin.com/posts/vignesh-thipparthi_deepfake-face-detection-using-machine-learning-activity-7204727601888698368-uCMH?utm_source=share&utm_medium=member_desktop)
+🔗 [Watch the video on LinkedIn]([https://www.linkedin.com/posts/vignesh-thipparthi_deepfake-face-detection-using-machine-learning-activity-7204727601888698368-uCMH?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/vignesh-thipparthi_deepfakedetection-machinelearning-facemanipulation-activity-7194584457893359618-mXgX?utm_source=share&utm_medium=member_desktop))
 
 ---
 
